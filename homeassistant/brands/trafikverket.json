@@ -1,0 +1,11 @@
+{
+  "domain": "trafikverket",
+  "name": "Trafikverket",
+  "integrations": [
+    "trafikverket_ferry",
+    "trafikverket_train",
+    "trafikverket_weatherstation"
+  ]
+}
+
+

@@ -1,0 +1,3 @@
+"""The openhardwaremonitor component."""
+
+

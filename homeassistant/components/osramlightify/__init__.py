@@ -1,0 +1,3 @@
+"""The osramlightify component."""
+
+

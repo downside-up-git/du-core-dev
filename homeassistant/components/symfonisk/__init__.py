@@ -1,0 +1,3 @@
+"""Virtual integration: IKEA SYMFONISK."""
+
+

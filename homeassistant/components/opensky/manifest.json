@@ -1,0 +1,9 @@
+{
+  "domain": "opensky",
+  "name": "OpenSky Network",
+  "codeowners": [],
+  "documentation": "https://www.home-assistant.io/integrations/opensky",
+  "iot_class": "cloud_polling"
+}
+
+

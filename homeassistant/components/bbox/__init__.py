@@ -1,0 +1,3 @@
+"""The bbox component."""
+
+

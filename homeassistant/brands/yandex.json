@@ -1,0 +1,7 @@
+{
+  "domain": "yandex",
+  "name": "Yandex",
+  "integrations": ["yandex_transport", "yandextts"]
+}
+
+

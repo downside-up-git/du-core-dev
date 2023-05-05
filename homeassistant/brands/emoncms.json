@@ -1,0 +1,7 @@
+{
+  "domain": "emoncms",
+  "name": "emoncms",
+  "integrations": ["emoncms", "emoncms_history"]
+}
+
+

@@ -1,0 +1,7 @@
+{
+  "domain": "yamaha",
+  "name": "Yamaha",
+  "integrations": ["yamaha", "yamaha_musiccast"]
+}
+
+

@@ -1,0 +1,7 @@
+{
+  "domain": "homeseer",
+  "name": "HomeSeer",
+  "iot_standards": ["zwave"]
+}
+
+
